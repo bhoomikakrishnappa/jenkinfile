@@ -7,6 +7,8 @@
   <groupId>Devops</groupId>
   <artifactId>mvnproject</artifactId>
   <version>1.0-SNAPSHOT</version>
+  
+  <!-- demo on webhook -->
 
   <name>mvnproject</name>
   <!-- FIXME change it to the project's website -->
